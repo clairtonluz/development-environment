@@ -1,0 +1,48 @@
+{
+  "files.autoSave": "onFocusChange",
+  "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel": 0,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 18,
+  "editor.fontLigatures": true,
+  "editor.renderLineHighlight": "gutter",
+  "editor.tabSize": 2,
+  "editor.rulers": [
+      80,
+      120
+  ],
+  "editor.formatOnSave": false,
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+      {
+          "language": "javascript",
+          "autoFix": true
+      },
+      {
+          "language": "javascriptreact",
+          "autoFix": true
+      },
+      {
+          "language": "typescript",
+          "autoFix": true
+      },
+      {
+          "language": "typescriptreact",
+          "autoFix": true
+      }
+  ],
+  "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true,
+      "**/.settings": true,
+      "**/.factorypath": true
+  },
+  "git.enableSmartCommit": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "terminal.integrated.rendererType": "dom",
+  "terminal.integrated.fontSize": 14,
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme"
+}
