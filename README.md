@@ -1,3 +1,3 @@
-# Developement Environment
+# Development Environment
 
 Minha configuração de ambiente de desenvolvimento
